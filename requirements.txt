@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+pytest>=8.0
+# Optional: only needed if you want the commentary written by an LLM instead of the built-in rule-based writer
+anthropic>=0.40

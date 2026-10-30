@@ -1,0 +1,322 @@
+account_id,account_name,industry,state,size_band
+ACC-0001,Redback Gas Services,Oil & Gas,SA,Enterprise
+ACC-0002,Meridian Power Group,Utilities,QLD,Large
+ACC-0003,Evergreen Energy Group,Oil & Gas,NSW,Medium
+ACC-0004,Outback Council Resources,Government,QLD,Large
+ACC-0005,Apex Iron Resources,Mining,WA,Small
+ACC-0006,Horizon Manufacturing Australia,Industrial,WA,Medium
+ACC-0007,Horizon Energy Australia,Oil & Gas,WA,Large
+ACC-0008,Central Gas Resources,Oil & Gas,QLD,Medium
+ACC-0009,Outback Coal Holdings,Mining,WA,Large
+ACC-0010,Summit Freight Resources,Transport,NSW,Medium
+ACC-0011,Horizon Power Australia,Utilities,WA,Large
+ACC-0012,Titan Engineering Holdings,Industrial,NSW,Medium
+ACC-0013,Redback Emergency Services Services,Government,WA,Medium
+ACC-0014,Central Energy Holdings,Oil & Gas,WA,Medium
+ACC-0015,Horizon Grid Resources,Utilities,VIC,Medium
+ACC-0016,Summit Coal Group,Mining,QLD,Large
+ACC-0017,Granite Freight Services,Transport,VIC,Small
+ACC-0018,Redback Copper Australia,Mining,WA,Small
+ACC-0019,Horizon Gas Operations,Oil & Gas,VIC,Small
+ACC-0020,Ridge Roads Authority Services,Government,NT,Small
+ACC-0021,Horizon Energy Group,Oil & Gas,VIC,Large
+ACC-0022,Outback Water Resources,Utilities,NT,Medium
+ACC-0023,Titan Engineering Australia,Industrial,WA,Enterprise
+ACC-0024,Outback Manufacturing Services,Industrial,QLD,Small
+ACC-0025,Apex Gas Holdings,Oil & Gas,WA,Large
+ACC-0026,Apex Gold Group,Mining,WA,Medium
+ACC-0027,Southern Freight Group,Transport,NT,Medium
+ACC-0028,Southern Gold Holdings,Mining,NSW,Enterprise
+ACC-0029,Horizon Iron Holdings,Mining,QLD,Enterprise
+ACC-0030,Apex Roads Authority Operations,Government,VIC,Enterprise
+ACC-0031,Evergreen Emergency Services Services,Government,QLD,Small
+ACC-0032,Central Engineering Resources,Industrial,VIC,Medium
+ACC-0033,Bluestone Grid Operations,Utilities,QLD,Large
+ACC-0034,Horizon Grid Holdings,Utilities,QLD,Medium
+ACC-0035,Coastal Logistics Services,Transport,QLD,Large
+ACC-0036,Summit Copper Holdings,Mining,QLD,Large
+ACC-0037,Evergreen Lithium Holdings,Mining,WA,Large
+ACC-0038,Horizon Logistics Australia,Transport,WA,Large
+ACC-0039,Summit Copper Operations,Mining,QLD,Large
+ACC-0040,Granite Council Holdings,Government,QLD,Small
+ACC-0041,Titan Water Holdings,Utilities,NT,Small
+ACC-0042,Coastal Energy Group,Oil & Gas,VIC,Large
+ACC-0043,Coastal Roads Authority Group,Government,VIC,Medium
+ACC-0044,Ridge Water Operations,Utilities,VIC,Medium
+ACC-0045,Ridge Gas Operations,Oil & Gas,WA,Medium
+ACC-0046,Meridian Petroleum Services,Oil & Gas,NSW,Large
+ACC-0047,Titan Power Resources,Utilities,WA,Large
+ACC-0048,Bluestone Power Australia,Utilities,WA,Large
+ACC-0049,Ridge Roads Authority Australia,Government,NSW,Medium
+ACC-0050,Evergreen Gold Australia,Mining,SA,Medium
+ACC-0051,Apex Iron Holdings,Mining,WA,Medium
+ACC-0052,Horizon Gold Group,Mining,NSW,Medium
+ACC-0053,Central Petroleum Holdings,Oil & Gas,NSW,Large
+ACC-0054,Bluestone Roads Authority Operations,Government,NSW,Large
+ACC-0055,Evergreen Emergency Services Group,Government,VIC,Small
+ACC-0056,Northern Gas Resources,Oil & Gas,VIC,Small
+ACC-0057,Redback Rail Holdings,Transport,NT,Medium
+ACC-0058,Northern Rail Holdings,Transport,QLD,Enterprise
+ACC-0059,Outback Iron Resources,Mining,NSW,Large
+ACC-0060,Apex Gold Operations,Mining,WA,Small
+ACC-0061,Meridian Council Group,Government,QLD,Enterprise
+ACC-0062,Northern Logistics Group,Transport,NT,Medium
+ACC-0063,Granite Freight Australia,Transport,WA,Medium
+ACC-0064,Northern Gas Australia,Oil & Gas,QLD,Enterprise
+ACC-0065,Apex Council Resources,Government,NSW,Small
+ACC-0066,Ridge Freight Services,Transport,TAS,Medium
+ACC-0067,Summit Freight Group,Transport,WA,Large
+ACC-0068,Northern Water Group,Utilities,NT,Small
+ACC-0069,Central Lithium Group,Mining,VIC,Large
+ACC-0070,Northern Water Operations,Utilities,WA,Medium
+ACC-0071,Ridge Copper Group,Mining,WA,Small
+ACC-0072,Coastal Power Services,Utilities,VIC,Medium
+ACC-0073,Horizon Gas Services,Oil & Gas,QLD,Medium
+ACC-0074,Titan Copper Holdings,Mining,WA,Small
+ACC-0075,Summit Gold Operations,Mining,VIC,Small
+ACC-0076,Summit Grid Services,Utilities,QLD,Enterprise
+ACC-0077,Titan Grid Services,Utilities,WA,Medium
+ACC-0078,Summit Roads Authority Holdings,Government,NSW,Medium
+ACC-0079,Summit Logistics Services,Transport,QLD,Small
+ACC-0080,Northern Petroleum Services,Oil & Gas,QLD,Medium
+ACC-0081,Titan Roads Authority Holdings,Government,NSW,Medium
+ACC-0082,Pacific Power Group,Utilities,SA,Large
+ACC-0083,Evergreen Energy Australia,Oil & Gas,WA,Medium
+ACC-0084,Northern Iron Group,Mining,VIC,Enterprise
+ACC-0085,Redback Coal Services,Mining,TAS,Enterprise
+ACC-0086,Summit Iron Operations,Mining,SA,Small
+ACC-0087,Summit Emergency Services Australia,Government,NSW,Small
+ACC-0088,Titan Freight Group,Transport,WA,Small
+ACC-0089,Ridge Lithium Operations,Mining,VIC,Large
+ACC-0090,Outback Freight Group,Transport,TAS,Small
+ACC-0091,Evergreen Coal Resources,Mining,WA,Enterprise
+ACC-0092,Titan Council Holdings,Government,WA,Large
+ACC-0093,Summit Grid Operations,Utilities,VIC,Large
+ACC-0094,Apex Grid Operations,Utilities,SA,Medium
+ACC-0095,Evergreen Grid Group,Utilities,VIC,Enterprise
+ACC-0096,Coastal Roads Authority Australia,Government,NSW,Small
+ACC-0097,Pacific Water Operations,Utilities,VIC,Medium
+ACC-0098,Meridian Iron Operations,Mining,WA,Medium
+ACC-0099,Ridge Gold Operations,Mining,VIC,Enterprise
+ACC-0100,Central Steel Holdings,Industrial,SA,Large
+ACC-0101,Titan Manufacturing Resources,Industrial,WA,Large
+ACC-0102,Northern Roads Authority Services,Government,VIC,Small
+ACC-0103,Central Water Australia,Utilities,VIC,Enterprise
+ACC-0104,Pacific Steel Australia,Industrial,VIC,Medium
+ACC-0105,Titan Gas Holdings,Oil & Gas,QLD,Medium
+ACC-0106,Redback Roads Authority Holdings,Government,WA,Enterprise
+ACC-0107,Southern Grid Group,Utilities,NSW,Medium
+ACC-0108,Outback Water Group,Utilities,WA,Medium
+ACC-0109,Meridian Iron Australia,Mining,VIC,Large
+ACC-0110,Redback Manufacturing Holdings,Industrial,WA,Small
+ACC-0111,Meridian Ports Group,Transport,SA,Medium
+ACC-0112,Bluestone Gold Group,Mining,WA,Small
+ACC-0113,Evergreen Water Operations,Utilities,WA,Small
+ACC-0114,Bluestone Ports Operations,Transport,WA,Enterprise
+ACC-0115,Central Iron Operations,Mining,VIC,Large
+ACC-0116,Evergreen Energy Resources,Oil & Gas,NSW,Medium
+ACC-0117,Central Petroleum Group,Oil & Gas,VIC,Medium
+ACC-0118,Outback Council Holdings,Government,QLD,Medium
+ACC-0119,Redback Water Services,Utilities,WA,Large
+ACC-0120,Coastal Emergency Services Resources,Government,WA,Enterprise
+ACC-0121,Titan Rail Group,Transport,WA,Enterprise
+ACC-0122,Northern Emergency Services Group,Government,VIC,Medium
+ACC-0123,Summit Lithium Resources,Mining,WA,Medium
+ACC-0124,Titan Water Operations,Utilities,VIC,Medium
+ACC-0125,Outback Iron Operations,Mining,NSW,Large
+ACC-0126,Horizon Freight Australia,Transport,WA,Medium
+ACC-0127,Granite Power Australia,Utilities,TAS,Large
+ACC-0128,Meridian Copper Holdings,Mining,QLD,Large
+ACC-0129,Meridian Coal Resources,Mining,VIC,Medium
+ACC-0130,Pacific Freight Resources,Transport,QLD,Medium
+ACC-0131,Horizon Lithium Group,Mining,VIC,Medium
+ACC-0132,Northern Engineering Services,Industrial,SA,Small
+ACC-0133,Horizon Freight Services,Transport,WA,Small
+ACC-0134,Bluestone Water Australia,Utilities,VIC,Large
+ACC-0135,Evergreen Ports Services,Transport,VIC,Medium
+ACC-0136,Pacific Coal Services,Mining,VIC,Medium
+ACC-0137,Pacific Steel Resources,Industrial,TAS,Large
+ACC-0138,Ridge Rail Australia,Transport,QLD,Large
+ACC-0139,Summit Gas Resources,Oil & Gas,WA,Medium
+ACC-0140,Bluestone Lithium Holdings,Mining,WA,Large
+ACC-0141,Summit Freight Services,Transport,QLD,Enterprise
+ACC-0142,Evergreen Ports Operations,Transport,VIC,Large
+ACC-0143,Evergreen Steel Services,Industrial,NT,Large
+ACC-0144,Central Ports Group,Transport,NSW,Small
+ACC-0145,Redback Ports Australia,Transport,QLD,Enterprise
+ACC-0146,Outback Power Group,Utilities,WA,Medium
+ACC-0147,Meridian Grid Australia,Utilities,WA,Enterprise
+ACC-0148,Titan Logistics Australia,Transport,NT,Large
+ACC-0149,Horizon Water Group,Utilities,VIC,Small
+ACC-0150,Summit Copper Australia,Mining,QLD,Small
+ACC-0151,Apex Energy Holdings,Oil & Gas,NSW,Large
+ACC-0152,Bluestone Engineering Services,Industrial,QLD,Large
+ACC-0153,Evergreen Coal Services,Mining,VIC,Small
+ACC-0154,Outback Ports Operations,Transport,VIC,Large
+ACC-0155,Central Copper Group,Mining,NSW,Enterprise
+ACC-0156,Outback Emergency Services Resources,Government,NSW,Medium
+ACC-0157,Horizon Power Group,Utilities,QLD,Medium
+ACC-0158,Summit Emergency Services Services,Government,QLD,Small
+ACC-0159,Coastal Emergency Services Australia,Government,WA,Large
+ACC-0160,Pacific Energy Group,Oil & Gas,NSW,Medium
+ACC-0161,Ridge Coal Group,Mining,NSW,Enterprise
+ACC-0162,Coastal Manufacturing Resources,Industrial,NSW,Medium
+ACC-0163,Redback Gold Holdings,Mining,QLD,Large
+ACC-0164,Southern Copper Australia,Mining,NSW,Medium
+ACC-0165,Outback Logistics Services,Transport,VIC,Small
+ACC-0166,Ridge Power Holdings,Utilities,NSW,Large
+ACC-0167,Bluestone Energy Services,Oil & Gas,QLD,Medium
+ACC-0168,Horizon Energy Services,Oil & Gas,NSW,Medium
+ACC-0169,Apex Water Group,Utilities,QLD,Enterprise
+ACC-0170,Northern Manufacturing Services,Industrial,QLD,Enterprise
+ACC-0171,Southern Grid Holdings,Utilities,WA,Enterprise
+ACC-0172,Granite Ports Services,Transport,WA,Small
+ACC-0173,Evergreen Water Holdings,Utilities,WA,Large
+ACC-0174,Ridge Manufacturing Holdings,Industrial,NSW,Enterprise
+ACC-0175,Coastal Coal Holdings,Mining,WA,Medium
+ACC-0176,Southern Lithium Operations,Mining,QLD,Small
+ACC-0177,Bluestone Power Resources,Utilities,QLD,Large
+ACC-0178,Pacific Engineering Holdings,Industrial,WA,Medium
+ACC-0179,Summit Steel Services,Industrial,NSW,Large
+ACC-0180,Southern Roads Authority Resources,Government,QLD,Enterprise
+ACC-0181,Redback Steel Services,Industrial,WA,Large
+ACC-0182,Horizon Steel Group,Industrial,SA,Medium
+ACC-0183,Southern Freight Services,Transport,SA,Medium
+ACC-0184,Pacific Water Resources,Utilities,QLD,Medium
+ACC-0185,Coastal Petroleum Operations,Oil & Gas,QLD,Small
+ACC-0186,Titan Emergency Services Resources,Government,WA,Large
+ACC-0187,Northern Grid Group,Utilities,NSW,Large
+ACC-0188,Summit Coal Resources,Mining,WA,Medium
+ACC-0189,Central Council Holdings,Government,QLD,Medium
+ACC-0190,Central Water Holdings,Utilities,VIC,Enterprise
+ACC-0191,Titan Steel Holdings,Industrial,VIC,Small
+ACC-0192,Granite Copper Group,Mining,WA,Medium
+ACC-0193,Evergreen Coal Group,Mining,VIC,Medium
+ACC-0194,Titan Petroleum Resources,Oil & Gas,NSW,Large
+ACC-0195,Redback Gold Operations,Mining,NSW,Small
+ACC-0196,Horizon Coal Holdings,Mining,VIC,Large
+ACC-0197,Coastal Rail Holdings,Transport,NSW,Medium
+ACC-0198,Pacific Manufacturing Resources,Industrial,WA,Large
+ACC-0199,Southern Lithium Group,Mining,VIC,Small
+ACC-0200,Meridian Water Operations,Utilities,WA,Medium
+ACC-0201,Ridge Petroleum Services,Oil & Gas,WA,Medium
+ACC-0202,Horizon Steel Operations,Industrial,NSW,Medium
+ACC-0203,Titan Freight Services,Transport,VIC,Small
+ACC-0204,Pacific Gold Group,Mining,QLD,Small
+ACC-0205,Pacific Lithium Group,Mining,VIC,Medium
+ACC-0206,Apex Lithium Resources,Mining,NSW,Small
+ACC-0207,Pacific Iron Services,Mining,NT,Enterprise
+ACC-0208,Horizon Roads Authority Holdings,Government,TAS,Medium
+ACC-0209,Pacific Gold Resources,Mining,WA,Large
+ACC-0210,Northern Freight Group,Transport,NSW,Enterprise
+ACC-0211,Pacific Roads Authority Group,Government,WA,Small
+ACC-0212,Coastal Logistics Operations,Transport,WA,Large
+ACC-0213,Southern Copper Resources,Mining,NSW,Enterprise
+ACC-0214,Central Petroleum Operations,Oil & Gas,WA,Large
+ACC-0215,Granite Council Resources,Government,VIC,Medium
+ACC-0216,Bluestone Council Australia,Government,NSW,Medium
+ACC-0217,Titan Coal Services,Mining,QLD,Small
+ACC-0218,Apex Lithium Group,Mining,VIC,Medium
+ACC-0219,Coastal Steel Group,Industrial,VIC,Enterprise
+ACC-0220,Evergreen Power Group,Utilities,WA,Enterprise
+ACC-0221,Meridian Power Operations,Utilities,TAS,Small
+ACC-0222,Northern Logistics Operations,Transport,QLD,Large
+ACC-0223,Meridian Roads Authority Holdings,Government,WA,Medium
+ACC-0224,Summit Engineering Operations,Industrial,TAS,Enterprise
+ACC-0225,Apex Water Operations,Utilities,VIC,Small
+ACC-0226,Meridian Manufacturing Operations,Industrial,QLD,Enterprise
+ACC-0227,Bluestone Gold Holdings,Mining,NSW,Large
+ACC-0228,Evergreen Rail Services,Transport,VIC,Small
+ACC-0229,Apex Roads Authority Group,Government,WA,Small
+ACC-0230,Central Iron Australia,Mining,QLD,Large
+ACC-0231,Granite Copper Services,Mining,QLD,Small
+ACC-0232,Pacific Grid Operations,Utilities,VIC,Medium
+ACC-0233,Coastal Steel Australia,Industrial,VIC,Enterprise
+ACC-0234,Redback Freight Holdings,Transport,SA,Large
+ACC-0235,Granite Steel Operations,Industrial,VIC,Medium
+ACC-0236,Southern Petroleum Operations,Oil & Gas,NSW,Medium
+ACC-0237,Bluestone Ports Services,Transport,NSW,Small
+ACC-0238,Granite Gas Resources,Oil & Gas,QLD,Enterprise
+ACC-0239,Apex Gold Resources,Mining,QLD,Medium
+ACC-0240,Redback Coal Holdings,Mining,QLD,Small
+ACC-0241,Bluestone Petroleum Operations,Oil & Gas,VIC,Medium
+ACC-0242,Meridian Petroleum Holdings,Oil & Gas,NSW,Enterprise
+ACC-0243,Ridge Gold Resources,Mining,WA,Small
+ACC-0244,Redback Freight Australia,Transport,WA,Enterprise
+ACC-0245,Redback Emergency Services Operations,Government,WA,Large
+ACC-0246,Redback Gas Holdings,Oil & Gas,WA,Large
+ACC-0247,Central Council Operations,Government,WA,Enterprise
+ACC-0248,Central Power Australia,Utilities,VIC,Large
+ACC-0249,Central Power Services,Utilities,NSW,Enterprise
+ACC-0250,Ridge Water Australia,Utilities,QLD,Small
+ACC-0251,Southern Council Australia,Government,NSW,Large
+ACC-0252,Pacific Petroleum Australia,Oil & Gas,WA,Medium
+ACC-0253,Granite Freight Group,Transport,QLD,Medium
+ACC-0254,Summit Iron Australia,Mining,WA,Enterprise
+ACC-0255,Bluestone Lithium Australia,Mining,WA,Enterprise
+ACC-0256,Summit Roads Authority Australia,Government,QLD,Large
+ACC-0257,Pacific Energy Resources,Oil & Gas,SA,Medium
+ACC-0258,Ridge Gold Holdings,Mining,QLD,Medium
+ACC-0259,Granite Lithium Resources,Mining,WA,Medium
+ACC-0260,Redback Rail Resources,Transport,NSW,Medium
+ACC-0261,Horizon Copper Australia,Mining,QLD,Medium
+ACC-0262,Meridian Gas Operations,Oil & Gas,QLD,Small
+ACC-0263,Outback Grid Holdings,Utilities,VIC,Small
+ACC-0264,Coastal Coal Resources,Mining,NSW,Large
+ACC-0265,Horizon Steel Services,Industrial,SA,Medium
+ACC-0266,Evergreen Lithium Operations,Mining,WA,Enterprise
+ACC-0267,Coastal Power Holdings,Utilities,VIC,Large
+ACC-0268,Evergreen Lithium Resources,Mining,NSW,Small
+ACC-0269,Coastal Gold Resources,Mining,VIC,Small
+ACC-0270,Horizon Coal Services,Mining,VIC,Medium
+ACC-0271,Apex Coal Australia,Mining,SA,Enterprise
+ACC-0272,Coastal Lithium Holdings,Mining,QLD,Medium
+ACC-0273,Central Lithium Resources,Mining,NSW,Medium
+ACC-0274,Evergreen Freight Resources,Transport,QLD,Enterprise
+ACC-0275,Evergreen Roads Authority Group,Government,VIC,Enterprise
+ACC-0276,Redback Grid Australia,Utilities,NSW,Medium
+ACC-0277,Summit Grid Group,Utilities,WA,Small
+ACC-0278,Apex Ports Services,Transport,WA,Small
+ACC-0279,Redback Manufacturing Operations,Industrial,TAS,Small
+ACC-0280,Granite Petroleum Holdings,Oil & Gas,WA,Small
+ACC-0281,Ridge Gold Services,Mining,QLD,Large
+ACC-0282,Outback Gold Services,Mining,WA,Enterprise
+ACC-0283,Titan Gold Resources,Mining,SA,Medium
+ACC-0284,Outback Iron Services,Mining,WA,Large
+ACC-0285,Northern Rail Services,Transport,NT,Medium
+ACC-0286,Apex Grid Group,Utilities,WA,Large
+ACC-0287,Titan Gold Group,Mining,WA,Large
+ACC-0288,Redback Grid Operations,Utilities,VIC,Enterprise
+ACC-0289,Southern Rail Services,Transport,WA,Enterprise
+ACC-0290,Apex Lithium Holdings,Mining,QLD,Medium
+ACC-0291,Summit Gas Group,Oil & Gas,QLD,Small
+ACC-0292,Northern Copper Services,Mining,WA,Medium
+ACC-0293,Outback Engineering Resources,Industrial,NT,Medium
+ACC-0294,Ridge Copper Resources,Mining,TAS,Enterprise
+ACC-0295,Summit Petroleum Services,Oil & Gas,NSW,Medium
+ACC-0296,Southern Engineering Australia,Industrial,WA,Large
+ACC-0297,Outback Manufacturing Group,Industrial,WA,Medium
+ACC-0298,Summit Petroleum Holdings,Oil & Gas,NSW,Small
+ACC-0299,Granite Gas Operations,Oil & Gas,VIC,Medium
+ACC-0300,Northern Roads Authority Group,Government,VIC,Large
+ACC-0301,Bluestone Energy Operations,Oil & Gas,WA,Large
+ACC-0302,Southern Iron Australia,Mining,QLD,Medium
+ACC-0303,Coastal Freight Holdings,Transport,TAS,Medium
+ACC-0304,Apex Rail Services,Transport,QLD,Large
+ACC-0305,Summit Energy Services,Oil & Gas,TAS,Small
+ACC-0306,Granite Logistics Services,Transport,NSW,Enterprise
+ACC-0307,Coastal Grid Australia,Utilities,WA,Small
+ACC-0308,Titan Roads Authority Australia,Government,VIC,Small
+ACC-0309,Evergreen Power Services,Utilities,QLD,Medium
+ACC-0310,Coastal Gold Australia,Mining,WA,Medium
+ACC-0311,Redback Logistics Holdings,Transport,SA,Medium
+ACC-0312,Apex Water Resources,Utilities,WA,Medium
+ACC-0313,Ridge Iron Operations,Mining,VIC,Enterprise
+ACC-0314,Coastal Water Holdings,Utilities,NSW,Medium
+ACC-0315,Horizon Water Holdings,Utilities,VIC,Medium
+ACC-0316,Northern Water Services,Utilities,VIC,Medium
+ACC-0317,Titan Grid Group,Utilities,WA,Small
+ACC-0318,Northern Emergency Services Operations,Government,WA,Large
+ACC-0319,Redback Grid Services,Utilities,WA,Medium
+ACC-0320,Pacific Manufacturing Group,Industrial,WA,Large
+ACC-UNKNOWN,Unknown account,Unknown,Unknown,Unknown

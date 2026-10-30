@@ -1,0 +1,67 @@
+{
+  "as_of": "2026-10-01",
+  "last_full_month": "2026-09",
+  "revenue": {
+    "last_month_won": 3956800.0,
+    "last_month_target": 5065600.0,
+    "last_month_vs_target_pct": -21.9,
+    "last_3m_won": 13917600.0,
+    "prior_3m_won": 9117400.0,
+    "last_3m_change_pct": 52.6
+  },
+  "win_rate": {
+    "last_3m_pct": 35.4,
+    "prior_3m_pct": 32.1,
+    "lowest_industry_last_3m": {
+      "industry": "Government",
+      "pct": 26.4
+    },
+    "highest_industry_last_3m": {
+      "industry": "Mining",
+      "pct": 44.4
+    }
+  },
+  "sales_cycle_days_median_won": {
+    "last_3m": 70.0,
+    "prior_3m": 65.0
+  },
+  "gross_margin_pct": {
+    "last_3m": 34.2,
+    "prior_3m": 35.5
+  },
+  "pipeline": {
+    "open_deals": 361,
+    "open_value": 45542600.0,
+    "active_weighted_value": 9550435.0,
+    "stale_or_overdue_value": 13565100.0,
+    "stale_or_overdue_pct": 29.8,
+    "implied_win_rate_pct": 29.9,
+    "historical_value_win_rate_pct": 28.8
+  },
+  "top_products_last_3m": {
+    "Managed Maintenance": 3674000.0,
+    "Network Infrastructure": 3216800.0,
+    "Installation Services": 2770100.0
+  },
+  "forecast_next_month": {
+    "period": "2026-10",
+    "statistical_forecast": 3741183.0,
+    "range_80": [
+      2302985.0,
+      5179381.0
+    ],
+    "weighted_pipeline": 5639875.0,
+    "target": 4728300.0,
+    "model": "Ensemble (average of 3 models)"
+  },
+  "anomalies": [
+    {
+      "type": "pipeline_hygiene",
+      "detail": "30% of open pipeline value is stale or overdue and excluded from the forecast."
+    },
+    {
+      "type": "product_decline",
+      "detail": "Handheld Radios won revenue is down 36% versus the prior 3 months."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+check_id,table,description,severity,rows_affected,pct_of_table,recommended_fix
+DQ01,opportunities,Duplicate opportunity IDs (extra rows),High,90,2.62,Keep the most recently modified record per ID; add a unique constraint in the CRM export.
+DQ02,opportunities,Non-standard stage labels,Medium,241,7.02,Map to the canonical stage list; replace free-text stage with a picklist.
+DQ03,opportunities,Missing deal amount,High,50,1.46,Exclude from revenue maths; make Amount mandatory beyond the Qualification stage.
+DQ04,opportunities,Zero or negative deal amount,High,27,0.79,Exclude from revenue maths; add a validation rule (Amount > 0).
+DQ05,opportunities,Closed deal with no close date,High,75,2.19,Impute from last-modified date (flagged); make Close Date mandatory on closure.
+DQ06,opportunities,Close date earlier than created date,High,40,1.17,"Treat as invalid, repair as above; add a validation rule (Close >= Created)."
+DQ07,opportunities,Deal has no owner,Medium,52,1.52,Assign to UNASSIGNED and route to sales ops for allocation.
+DQ08,opportunities,Deal linked to an account that does not exist (orphan),Medium,33,0.96,Map to an 'Unknown' account; find and restore the missing account records.
+DQ09,opportunities,Missing lead source,Low,103,3.0,Set to 'Unknown'; make Lead Source mandatory at creation.
+DQ10,opportunities,Open deal not updated for >90 days (stale),High,116,3.38,Exclude from forecast; reps to re-qualify or close out.
+DQ11,opportunities,Open deal whose expected close date has passed (overdue),High,123,3.58,Exclude from forecast; reps to update the close date or close out.
+DQ12,accounts,Non-standard industry labels,Low,25,7.81,Standardise to the canonical industry list; use a picklist.
